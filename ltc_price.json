@@ -3,8 +3,8 @@
   "market": "Binance USD-M Futures",
   "price_type": "Last Price",
   "price": 61.96,
-  "binance_time_ms": 1791882537615,
-  "binance_time_taipei": "2026-10-13T17:08:57+08:00",
-  "fetched_at_taipei": "2026-10-13T17:09:01+08:00",
+  "binance_time_ms": 1791882600252,
+  "binance_time_taipei": "2026-10-13T17:10:00+08:00",
+  "fetched_at_taipei": "2026-10-13T17:10:01+08:00",
   "status": "LIVE_MINUTE_TEST"
 }
