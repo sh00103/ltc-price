@@ -2,9 +2,9 @@
   "symbol": "LTCUSDT",
   "market": "Binance USD-M Futures",
   "price_type": "Last Price",
-  "price": 61.86,
-  "binance_time_ms": 1791882777160,
-  "binance_time_taipei": "2026-10-13T17:12:57+08:00",
-  "fetched_at_taipei": "2026-10-13T17:13:01+08:00",
+  "price": 61.83,
+  "binance_time_ms": 1791882837577,
+  "binance_time_taipei": "2026-10-13T17:13:57+08:00",
+  "fetched_at_taipei": "2026-10-13T17:14:01+08:00",
   "status": "LIVE_MINUTE_TEST"
 }
